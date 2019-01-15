@@ -1,0 +1,15 @@
+img {
+  float: left;
+}
+
+.dates {
+  width: 30%;
+  float: right;
+  background-color: purple;
+  border: 2px solid blue;
+  padding: 4px;
+}
+
+h1 {
+  text-align: center;
+}
